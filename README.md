@@ -15,7 +15,7 @@ El objetivo de este proyecto tratará de crear un Servidor en Windows Server 201
 
 Se pueden diferenciar dos tipos de empleados, el que trabajará a remoto (la empresa le proporcionará un portátil con un acceso por VPN) y el que trabajará fisicamente en la empresa con el ordenador de la empresa, pero ambos obtendrán el acceso al servidor HTTP.
 
-La finalidad es dar a entender y enseñar la importancia de tener un protocolo de seguridad porque una vez que un usuario tenga un ordenador, siempre estará expuesto a un ataque cibernético y si es una empresa será un objetivo aún más a perseguir. Este modelo se puede implementar tanto en un servidor local, en cloud (tanto núbe pública, privada o híbrida, ya que por ejemplo podría ser implementado en Azure que es el servicio de Active Directory en la nube de Microsoft).
+La finalidad es dar a entender y enseñar la importancia de tener un protocolo de seguridad porque una vez que un usuario tenga un ordenador, siempre estará expuesto a un ataque cibernético y si es una empresa será un objetivo aún más a perseguir. Este modelo se puede implementar tanto en un servidor local como en cloud (tanto núbe pública, privada o híbrida, ya que por ejemplo podría ser implementado en Azure que es el servicio de Active Directory en la nube de Microsoft).
 
 ![imagen de Azure](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Microsoft_Azure_Logo.svg/2560px-Microsoft_Azure_Logo.svg.png)
 
